@@ -17,7 +17,7 @@ const slides = [
     subtitle: "Your world. Translated.",
     description: "Revolutionizing human connection by integrating AI into daily eyewear.",
     // Cyberpunk City Background
-    bgImage: "/public/Untitled (52).png"
+    bgImage: "/Untitled (52).png"
   },
   {
     id: 2,
@@ -88,14 +88,14 @@ const slides = [
     ],
     // Neon Fashion Background
     bgImage: "https://images.unsplash.com/photo-1506803875326-89c0953a998c?q=80&w=2670&auto=format&fit=crop",
-    video: "/public/Create_a_premium_cinematic_pr.mp4"
+    video: "/Create_a_premium_cinematic_pr.mp4"
   },
   {
     id: 4,
     type: "market-analysis",
     title: "Market Analysis",
     subtitle: "2025 Landscape & Trends",
-    bgImage: "/public/slide 4.png", // <--- Make sure this comma is here!
+    bgImage: "/slide 4.png", // <--- Make sure this comma is here!
     
     // Section 1: Market Size
     marketStats: {
@@ -125,7 +125,7 @@ const slides = [
     id: 5,
     type: "target-growth",
     title: "Market & Growth", // Shortened title for minimalism
-    bgImage: "/public/slide 5.png",
+    bgImage: "/slide 5.png",
     
     // 1. Target Segments (Alternating colors)
     segments: [
@@ -206,7 +206,7 @@ const slides = [
     title: "Key Market Drivers",
     subtitle: "Primary Drivers of Demand",
     // High-quality abstract network video loop
-    video: "/public/Minimal_Luminex_Smart_Glasses_Video.mp4",
+    video: "/Minimal_Luminex_Smart_Glasses_Video.mp4",
     
     // The 4 Inputs
     drivers: [
@@ -224,7 +224,7 @@ const slides = [
     type: "competitive-gap", // New layout type
     title: "Competitive Landscape",
     subtitle: "Adjacent Categories, Not Substitutes",
-    video: "/public/Luminex_Smart_Glasses_Promo_Video.mp4", // Dark Abstract
+    video: "/Luminex_Smart_Glasses_Promo_Video.mp4", // Dark Abstract
     
     // The Two Disconnected Categories
     competitors: [
@@ -275,7 +275,7 @@ const slides = [
     id: 12,
     type: "brand-identity",
     title: "BRAND STRATEGY", // Updated Title
-    bgImage: "/public/slide 6.png", 
+    bgImage: "/slide 6.png", 
     
     brandName: {
       tagline: "Illuminating the path to borderless connection."
@@ -295,7 +295,7 @@ const slides = [
     type: "go-to-market", // New type for this specific layout
     title: "Go-to-Market Strategy",
     subtitle: "Execution: Launch & Distribution",
-    bgImage: "/public/slide 5.png", // Global connectivity/airport vibe
+    bgImage: "/slide 5.png", // Global connectivity/airport vibe
     
     // CONTENT BLOCK 1: Marketing
     marketingStrategy: [
